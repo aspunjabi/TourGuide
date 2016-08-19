@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/text_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:minHeight="@dimen/list_item_height"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginTop="@dimen/text_vertical_margin"
+        android:id="@+id/image"
+        android:layout_gravity="center"
+        android:layout_width="@dimen/image_width"
+        android:src="@drawable/akshardham_temple"
+        android:adjustViewBounds="true"
+        android:layout_height="@dimen/image_height" />
+
+    <TextView
+        android:layout_marginTop="@dimen/text_vertical_margin"
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        tools:text="Name of attraction" />
+
+    <TextView
+        android:layout_marginTop="@dimen/text_vertical_margin"
+        android:layout_marginBottom="@dimen/text_vertical_margin"
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="@android:color/white"
+        tools:text="Address of attraction" />
+
+</LinearLayout>

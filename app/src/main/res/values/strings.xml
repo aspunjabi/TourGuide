@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_religious">Religious Monuments</string>
+    <string name="category_shopping">Shopping and food hubs</string>
+
+    <!-- Strings required for the transport category -->
+    <string name="transport_airport_name">Indira Gandhi International Airport</string>
+    <string name="transport_airport_address">New Delhi, Delhi 110037</string>
+
+    <string name="transport_railway_name">New Delhi Railway Station</string>
+    <string name="transport_railway_address">Bhavbhuti Marg, Kamla Market, Ajmeri Gate, New Delhi, Delhi 110006</string>
+
+    <string name="transport_bus_name">Kashmiri Gate Bus Terminus</string>
+    <string name="transport_bus_address">Yudhister Setu, Inter State Bus Terminal, Kashmere Gate, New Delhi, Delhi 110006</string>
+
+    <!-- Strings required for the landmarks category -->
+    <string name="landmark_indiagate_name">India Gate</string>
+    <string name="landmark_indiagate_address">Rajpath, India Gate, New Delhi, Delhi 110001</string>
+
+    <string name="landmark_redfort_name">Red Fort</string>
+    <string name="landmark_redfort_address">Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi 110006</string>
+
+    <string name="landmark_qutbminar_name">Qutb Minar</string>
+    <string name="landmark_qutbminar_address">Mehrauli, New Delhi, Delhi 110030</string>
+
+    <string name="landmark_lodigarden_name">Lodi Gardens</string>
+    <string name="landmark_lodigarden_address">Lodhi Rd, New Delhi, Delhi 110003</string>
+
+    <string name="landmark_rashtrapati_name">Rashtrapati Bhavan</string>
+    <string name="landmark_rashtrapati_address">New Delhi, Delhi 110004</string>
+
+    <!-- Strings required for the religious monuments category -->
+    <string name="religious_akshardham_name">Akshardham Temple</string>
+    <string name="religious_akshardham_address">Noida Mor, New Delhi, Delhi 110092</string>
+
+    <string name="religious_lotustemple_name">Lotus Temple</string>
+    <string name="religious_lotustemple_address">Lotus Temple Rd, Shambhu Dayal Bagh, Bahapur, Kalkaji, New Delhi, Delhi 110019</string>
+
+    <string name="religious_jamamasjid_name">Jama Masjid</string>
+    <string name="religious_jamamasjid_address">Chandni Chowk, New Delhi, Delhi 110006</string>
+
+    <string name="religious_banglasahib_name">Gurudwara Bangla Sahib</string>
+    <string name="religious_banglasahib_address">Ashoka Road, Connaught Place,Next to Grand Post Office, New Delhi, Delhi 110001</string>
+
+    <!-- Strings required for the shopping hubs category -->
+    <string name="shopping_chandni_name">Chandni Chowk</string>
+    <string name="shopping_chandni_address">Chandni Chowk, Kucha Mahajani, Old Delhi, New Delhi, Delhi 110006</string>
+
+    <string name="shopping_connaught_name">Connaught Place</string>
+    <string name="shopping_connaught_address">Connaught Place, New Delhi, Delhi 110001</string>
+
+    <string name="shopping_karolbagh_name">Karol Bagh</string>
+    <string name="shopping_karolbagh_address">Karol Bagh, New Delhi, Delhi 110005</string>
+
+    <string name="shopping_dillihaat_name">Dilli Haat</string>
+    <string name="shopping_dillihaat_address">Sri Aurobindo Marg, Laxmi Bai Nagar, New Delhi, Delhi 110023</string>
+
+    <string name="shopping_hkv_name">Hauz Khas Village</string>
+    <string name="shopping_hkv_address">Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016</string>
+
+</resources>
